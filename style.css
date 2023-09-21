@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(14, 233, 204);
+  padding-right: 60%;
+}
+body .div1 {
+  border: 5px dashed rgb(197, 117, 12);
+  border-radius: 30px;
+}
+body .div1 h1 {
+  color: blue;
+}
+body .div1 ul li {
+  color: red;
+  text-align: justify;
+  text-decoration-line: underline;
+}
+body .div2 {
+  border: 5px dashed rgb(197, 117, 12);
+  border-radius: 30px;
+}
+body .div2 h1 {
+  color: blue;
+}
+body .div2 ul li {
+  color: red;
+  text-align: justify;
+  text-decoration-line: underline;
+}/*# sourceMappingURL=style.css.map */

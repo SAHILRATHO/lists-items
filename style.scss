@@ -1,0 +1,42 @@
+$mysize:50px;
+$black:rgb(8, 5, 5);
+$blue: blue;
+$text: red;
+$textbg: white;
+
+body{
+    background-color: rgb(14, 233, 204);
+    padding-right: 60%;
+  
+    .div1{
+        border: 5px  dashed rgb(197, 117, 12);
+        border-radius: 30px;
+        h1{
+            color:$blue ;
+        }
+        ul{
+            li{ 
+                color: $text;
+                text-align: justify;
+                text-decoration-line: underline;
+            }
+        }
+       
+    }
+    .div2{
+        border: 5px dashed  rgb(197, 117, 12);
+        border-radius: 30px;
+        h1{
+           
+            color:$blue ;
+        }
+        ul{
+            li{ 
+                color: $text;
+                text-align:justify;
+                text-decoration-line: underline;
+            }
+        }
+    }
+    
+}
